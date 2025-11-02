@@ -1,4 +1,5 @@
 # RS School Self-Introduction
+[Watch my CV video](https://youtu.be/PQ_pifxahaU)
 
 Hi everyone!
 My name is **Adlet Baiteliyev**, and I’m a **junior Frontend Developer** from **Astana, Kazakhstan**.
